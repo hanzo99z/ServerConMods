@@ -7,7 +7,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:old_growth_pine_taiga": "2025-03-16 02:09:48 +0000"
+      "minecraft:old_growth_pine_taiga": "2025-03-16 02:09:48 +0000",
+      "minecraft:stony_shore": "2025-03-16 03:13:20 +0000"
     },
     "done": false
   },
