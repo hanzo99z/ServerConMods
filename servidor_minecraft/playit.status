@@ -1,9 +1,574 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1742096408686 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1742096432856 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1742096411880 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1742096436213 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096439433 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096442613 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096445960 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096449197 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096452373 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096455927 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096459253 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096462554 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096465860 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096469222 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096472701 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096476071 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096479203 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096482464 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096485945 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096489371 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096492724 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096495933 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096499371 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096504170 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096508503 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096513288 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096516367 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096519529 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096522864 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096527600 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096530723 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096533903 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096537473 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096540584 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096543828 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096546992 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096550404 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096553623 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096557296 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096560721 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096564269 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096569223 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096572354 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096575941 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096579058 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096583491 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096586713 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096589846 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096593173 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096596405 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096599482 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096603426 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096606802 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096610023 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096613124 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096616730 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096620007 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096624594 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096627933 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096631031 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096634541 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096637841 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096641117 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096644451 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096647722 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096651370 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096655003 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096658310 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096661769 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096665166 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096669280 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096672563 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096675688 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096679088 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096682319 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096685432 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096688776 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096691876 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096695042 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096698397 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096703476 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096706771 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096709876 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096713002 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096716531 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096719653 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096722790 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096726187 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096729677 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096732790 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096737734 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096741104 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096744272 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096747599 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096750863 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096754133 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096757459 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096760747 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096764320 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096767854 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096771277 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096774866 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096779227 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096782673 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096786224 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096789573 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096793038 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096796242 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096799875 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096803281 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096808438 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096811646 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096814800 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096818116 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096821239 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096824842 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+something-crude.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1742096828963 tunnel running, 1 tunnels registered
 
 
 TUNNELS

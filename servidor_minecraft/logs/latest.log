@@ -1,10 +1,10 @@
-[03:40:02] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
-[03:40:02] [main/WARN]: Mod resolution failed
-[03:40:02] [main/INFO]: Immediate reason: [HARD_DEP_NO_CANDIDATE xaerominimap 25.1.0 {depends fabric-api @ [>=0.43.1]}, ROOT_FORCELOAD_SINGLE xaerominimap 25.1.0]
-[03:40:02] [main/INFO]: Reason: [HARD_DEP xaerominimap 25.1.0 {depends fabric-api @ [>=0.43.1]}]
-[03:40:02] [main/INFO]: SERVER environment disabled: [modmenu, fabric-key-binding-api-v1]
-[03:40:02] [main/INFO]: Fix: add [], remove [], replace [[xaerominimap 25.1.0] -> add:xaerominimap 1 ([(-∞,∞)])]
-[03:40:02] [main/ERROR]: Incompatible mods found!
+[03:40:25] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
+[03:40:25] [main/WARN]: Mod resolution failed
+[03:40:25] [main/INFO]: Immediate reason: [HARD_DEP_NO_CANDIDATE xaerominimap 25.1.0 {depends fabric-api @ [>=0.43.1]}, ROOT_FORCELOAD_SINGLE xaerominimap 25.1.0]
+[03:40:25] [main/INFO]: Reason: [HARD_DEP xaerominimap 25.1.0 {depends fabric-api @ [>=0.43.1]}]
+[03:40:25] [main/INFO]: SERVER environment disabled: [modmenu, fabric-key-binding-api-v1]
+[03:40:25] [main/INFO]: Fix: add [], remove [], replace [[xaerominimap 25.1.0] -> add:xaerominimap 1 ([(-∞,∞)])]
+[03:40:25] [main/ERROR]: Incompatible mods found!
 net.fabricmc.loader.impl.FormattedException: Some of your mods are incompatible with the game or each other!
 A potential solution has been determined, this may resolve your problem:
 	 - Replace mod 'Xaero's Minimap' (xaerominimap) 25.1.0 with any version that is compatible with:
