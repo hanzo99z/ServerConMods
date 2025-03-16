@@ -9,6 +9,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-03-16 02:10:10 +0000",
       "minecraft:grove": "2025-03-16 02:37:49 +0000",
+      "minecraft:stony_shore": "2025-03-16 02:55:36 +0000",
       "minecraft:lush_caves": "2025-03-16 02:37:48 +0000"
     },
     "done": false
@@ -28,12 +29,6 @@
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-03-16 02:32:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_by_something": "2025-03-16 02:44:11 +0000"
     },
     "done": true
   },
@@ -70,6 +65,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-03-16 02:32:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-03-16 02:44:11 +0000"
     },
     "done": true
   },
