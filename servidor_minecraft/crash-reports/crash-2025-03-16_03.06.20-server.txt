@@ -1,0 +1,68 @@
+---- Minecraft Crash Report ----
+// Don't be sad. I'll do better next time, I promise!
+
+Time: 2025-03-16 03:06:20
+Description: Exception in server tick loop
+
+java.lang.NoClassDefFoundError: net/fabricmc/fabric/api/entity/event/v1/ServerEntityWorldChangeEvents
+	at me.lucko.luckperms.fabric.context.FabricPlayerCalculator.registerListeners(FabricPlayerCalculator.java:70)
+	at me.lucko.luckperms.fabric.LPFabricPlugin.setupContextManager(LPFabricPlugin.java:150)
+	at me.lucko.luckperms.common.plugin.AbstractLuckPermsPlugin.enable(AbstractLuckPermsPlugin.java:221)
+	at me.lucko.luckperms.fabric.LPFabricBootstrap.onServerStarting(LPFabricBootstrap.java:148)
+	at net.fabricmc.fabric.api.event.lifecycle.v1.ServerLifecycleEvents.lambda$static$0(ServerLifecycleEvents.java:38)
+	at net.minecraft.server.MinecraftServer.handler$zze000$fabric-lifecycle-events-v1$beforeSetupServer(MinecraftServer.java:2138)
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:664)
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.lang.ClassNotFoundException: net.fabricmc.fabric.api.entity.event.v1.ServerEntityWorldChangeEvents
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:226)
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:119)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+	... 9 more
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.21.1
+	Minecraft Version ID: 1.21.1
+	Operating System: Linux (amd64) version 6.8.0-1021-azure
+	Java Version: 21.0.6, Ubuntu
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Ubuntu
+	Memory: 1858456800 bytes (1772 MiB) / 2147483648 bytes (2048 MiB) up to 8589934592 bytes (8192 MiB)
+	CPUs: 2
+	Processor Vendor: AuthenticAMD
+	Processor Name: AMD EPYC 7763 64-Core Processor
+	Identifier: AuthenticAMD Family 25 Model 1 Stepping 1
+	Microarchitecture: Zen 3
+	Frequency (GHz): -0.00
+	Number of physical packages: 1
+	Number of physical CPUs: 1
+	Number of logical CPUs: 2
+	Graphics card #0 name: unknown
+	Graphics card #0 vendor: unknown
+	Graphics card #0 VRAM (MiB): 0.00
+	Graphics card #0 deviceId: unknown
+	Graphics card #0 versionInfo: unknown
+	Virtual memory max (MiB): 3969.35
+	Virtual memory used (MiB): 3936.68
+	Swap memory total (MiB): 0.00
+	Swap memory used (MiB): 0.00
+	Space in storage for jna.tmpdir (MiB): <path not set>
+	Space in storage for org.lwjgl.system.SharedLibraryExtractPath (MiB): <path not set>
+	Space in storage for io.netty.native.workdir (MiB): <path not set>
+	Space in storage for java.io.tmpdir (MiB): available: 24482.11, total: 45046.83
+	Space in storage for workdir (MiB): available: 18672.07, total: 32077.81
+	JVM Flags: 2 total; -Xms2G -Xmx8G
+	Server Running: true
+	Active Data Packs: vanilla, fabric
+	Available Data Packs: bundle, fabric, trade_rebalance, vanilla
+	Enabled Feature Flags: minecraft:vanilla
+	World Generation: Stable
+	World Seed: 8130205082774079440
+	Is Modded: Definitely; Server brand changed to 'fabric'
+	Type: Dedicated Server (map_server.txt)
