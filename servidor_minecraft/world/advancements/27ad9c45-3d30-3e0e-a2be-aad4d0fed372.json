@@ -7,7 +7,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-03-16 03:36:06 +0000",
       "minecraft:old_growth_pine_taiga": "2025-03-16 02:10:10 +0000",
+      "minecraft:river": "2025-03-16 03:36:07 +0000",
       "minecraft:grove": "2025-03-16 02:37:49 +0000",
       "minecraft:stony_shore": "2025-03-16 02:55:36 +0000",
       "minecraft:lush_caves": "2025-03-16 02:37:48 +0000"
@@ -98,12 +100,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bone_meal": {
-    "criteria": {
-      "has_bone": "2025-03-16 03:27:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_string": "2025-03-16 03:26:00 +0000"
@@ -119,6 +115,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-03-16 03:26:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-03-16 03:27:14 +0000"
     },
     "done": true
   },
